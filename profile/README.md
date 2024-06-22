@@ -19,7 +19,7 @@ A game studio created by a small group of students who are interested in video g
 
 <a href='https://inv.tux.pizza/watch?v=l6Fn6aRPuGA' target=_blank>
 
-#### I Like elephants
+<h2>I Like elephants</h2>
 
 <p>"God likes elephants"</p>
 </a>
