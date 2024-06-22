@@ -17,16 +17,18 @@ A game studio created by a small group of students who are interested in video g
 #### What's your goal?
 "Our main goal is to create quality games that appeal to many audiences. We try to give our products a nostalgic character while also putting our own spin on them. We strive to build a healthy relationship between the developers and the player base. As I like to say, "No game development studio can bloom without the critique from its fan base." We may have our ups and downs, but that doesn't mean we'll give up on creating fond memories for our players." ~ [Wateczny](https://www.github.com/Wateczny)
 
-<a href='https://inv.tux.pizza/watch?v=l6Fn6aRPuGA' target=_blank>
-
-<h2>I Like elephants</h2>
-
-<p>"God likes elephants"</p>
-</a>
-
 ## Our team
 
 - [@iodomi](https://www.github.com/iodomi) - Lead Programmer, musician
 - [@Wateczny](https://www.github.com/Wateczny) - Story writer, level designer
 - [@Halfieee](https://www.github.com/Halfieee) - Programmer
 - @memento_m00ri - Artist
+
+<html>
+<div align='center'>
+  <a href='https://inv.tux.pizza/watch?v=AbG6u86t4bA'>
+  <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FKV_ENWp__IQAAAAM%2Fterry-a-davis-dance.gif&f=1&nofb=1&ipt=fab9f9a228699bfc2553e58d2833e130e9d1611df8667ea5ed4234f93eb4bd19&ipo=images'>
+  </a>
+  </div>
+  
+</html>
